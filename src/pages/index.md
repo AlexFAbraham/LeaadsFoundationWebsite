@@ -7,15 +7,9 @@ subheading: COMMUNITY BASED . YOUTH DRIVEN
 mainpitch: 
   title: What is LEAAD
   description: >
-    Leaad is text text text text text text text text text text text text
-     text text text text text text text text text text text text text text
-      text text text text text text text text text text text text text text
-       text text.
+     In the fifteen plus years since our founding, the LEAADS Centers & Foundation has played a major role in the transformation of youth programming in Snellville, Georgia from a city with very little out of school time youth centered resources and activities. 
 description: >-
-  Leaad is text text text text text text text text text text text text
-     text text text text text text text text text text text text text text
-      text text text text text text text text text text text text text text
-       text text.
+  In an effort to combat youth from getting into trouble the LEAADS Centers & Foundation created and implemented valuable structured programs; such as the After School Academic Prep, Summer Camps, Girls Code Too Mentor Project (partnership with GA Tech), Black Youth Build(Youth Entrepreneur & Financial Literacy) and Youth Employment Training & Placement Programs which incorporates a variety of Culturally Relevant Curriculums which “empowers and promotes positive self identity, values, healthy habits,financial literacy, entrepreneurship, community service and education – resulting in real life transferable leadership and life skills in and outside of the classroom.” 
 intro:
   blurbs:
     - image: /img/CHRISTMAS201935125.jpeg
